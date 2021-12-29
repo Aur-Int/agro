@@ -14,9 +14,9 @@
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/agro/imports/peco_import.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/agro/releases/2021-12-20/imports/peco_import.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/agro/releases/2021-12-29/imports/peco_import.owl"/>
         <dc:source rdf:resource="http://purl.obolibrary.org/obo/peco/releases/2020-08-21/peco.owl"/>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021-12-20</owl:versionInfo>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021-12-29</owl:versionInfo>
     </owl:Ontology>
     
 

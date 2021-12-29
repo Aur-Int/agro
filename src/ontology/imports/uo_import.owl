@@ -8,8 +8,8 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:oboInOwl="oboInOwl:">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/agro/imports/uo_import.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/agro/releases/2021-12-20/imports/uo_import.owl"/>
-        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021-12-20</owl:versionInfo>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/agro/releases/2021-12-29/imports/uo_import.owl"/>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021-12-29</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -9253,8 +9253,8 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000017">
         <oboInOwl:hasExactSynonym>micron</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>micrometre</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A length unit which is equal to one millionth of a meter or 10^[-6] m.&quot; [NIST:NIST]</rdfs:comment>
+        <oboInOwl:hasExactSynonym>micrometre</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>um</oboInOwl:hasExactSynonym>
         <rdfs:label>micrometer</rdfs:label>
     </rdf:Description>
@@ -9466,8 +9466,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000078">
         <oboInOwl:hasExactSynonym>alpha</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;An angular unit acceleration which is equal to the angular acceleration of an object changing its angular velocity by 1rad/s over a time period that equals one second.&quot; [NIST:NIST]</rdfs:comment>
-        <rdfs:label>radian per second per second</rdfs:label>
         <oboInOwl:hasExactSynonym>rad/s^[2]</oboInOwl:hasExactSynonym>
+        <rdfs:label>radian per second per second</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000079">
         <oboInOwl:hasExactSynonym>rad/s</oboInOwl:hasExactSynonym>
@@ -9500,8 +9500,8 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000084">
         <rdfs:label>gram per cubic centimeter</rdfs:label>
-        <rdfs:comment>&quot;A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters.&quot; [UOC:GVG]</rdfs:comment>
         <oboInOwl:hasExactSynonym>gram per cubic centimetre</oboInOwl:hasExactSynonym>
+        <rdfs:comment>&quot;A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters.&quot; [UOC:GVG]</rdfs:comment>
         <oboInOwl:hasExactSynonym>g/cm^[3]</oboInOwl:hasExactSynonym>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000085">
@@ -9512,8 +9512,8 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000086">
         <rdfs:comment>&quot;An area density unit which is equal to the mass of an object in kilograms divided by the surface area in meters squared.&quot; [NIST:NIST]</rdfs:comment>
-        <oboInOwl:hasExactSynonym>Body Mass Index (BMI)</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>kilogram per square metre</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>Body Mass Index (BMI)</oboInOwl:hasExactSynonym>
         <rdfs:label>kilogram per square meter</rdfs:label>
         <oboInOwl:hasExactSynonym>kg/m^[2]</oboInOwl:hasExactSynonym>
     </rdf:Description>
@@ -9540,8 +9540,8 @@
         <rdfs:comment>&quot;A molar volume unit which is equal to 1 cubic centimeter occupied by one mole of a substance in the form of a solid, liquid, or gas.&quot; [NIST:NIST]</rdfs:comment>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000091">
-        <oboInOwl:hasExactSynonym>kg.m/s</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A momentum unit which is equal to the momentum of a one kilogram mass object with a speed of one meter per second.&quot; [NIST:NIST]</rdfs:comment>
+        <oboInOwl:hasExactSynonym>kg.m/s</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>kilogram metre per second</oboInOwl:hasExactSynonym>
         <rdfs:label>kilogram meter per second</rdfs:label>
     </rdf:Description>
@@ -9566,8 +9566,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000096">
         <rdfs:label>cubic meter</rdfs:label>
         <oboInOwl:hasExactSynonym>m^[3]</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>cubic metre</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A volume unit which is equal to the volume of a cube with edges one meter in length. One cubic meter equals to 1000 liters.&quot; [NIST:NIST]</rdfs:comment>
+        <oboInOwl:hasExactSynonym>cubic metre</oboInOwl:hasExactSynonym>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000097">
         <oboInOwl:hasExactSynonym>cubic centimetre</oboInOwl:hasExactSynonym>
@@ -9812,8 +9812,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000164">
         <rdfs:label>mass volume percentage</rdfs:label>
         <oboInOwl:hasExactSynonym>weight-volume percentage</oboInOwl:hasExactSynonym>
-        <rdfs:comment>&quot;A dimensionless concentration unit which denotes the mass of the substance in a mixture as a percentage of the volume of the entire mixture.&quot; [UOC:GVG]</rdfs:comment>
         <oboInOwl:hasExactSynonym>(w/v)</oboInOwl:hasExactSynonym>
+        <rdfs:comment>&quot;A dimensionless concentration unit which denotes the mass of the substance in a mixture as a percentage of the volume of the entire mixture.&quot; [UOC:GVG]</rdfs:comment>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000165">
         <rdfs:label>volume percentage</rdfs:label>
@@ -9835,8 +9835,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000169">
         <oboInOwl:hasExactSynonym>10^[-6]</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A dimensionless concentration notation which denotes the amount of a given substance in a total amount of 1,000,000 regardless of the units of measure used as long as they are the same or 1 part in 10^[6].&quot; [UOC:GVG]</rdfs:comment>
-        <rdfs:label>parts per million</rdfs:label>
         <oboInOwl:hasExactSynonym>ppm</oboInOwl:hasExactSynonym>
+        <rdfs:label>parts per million</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000170">
         <rdfs:label>parts per billion</rdfs:label>
@@ -9903,8 +9903,8 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000184">
         <oboInOwl:hasExactSynonym>kg/m</oboInOwl:hasExactSynonym>
-        <rdfs:comment>&quot;An area density unit which is equal to the mass of an object in kilograms divided by one meter.&quot; [NIST:NIST]</rdfs:comment>
         <oboInOwl:hasExactSynonym>kilogram per metre</oboInOwl:hasExactSynonym>
+        <rdfs:comment>&quot;An area density unit which is equal to the mass of an object in kilograms divided by one meter.&quot; [NIST:NIST]</rdfs:comment>
         <rdfs:label>kilogram per meter</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000185">
@@ -10235,8 +10235,8 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000271">
         <rdfs:label>microliters per minute</rdfs:label>
-        <oboInOwl:hasExactSynonym>uL/min</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>microlitres per minute</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym>uL/min</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A volumetric flow rate unit which is equal to one microliter volume through a given surface in one minute.&quot; [UOC:GVG]</rdfs:comment>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000272">
@@ -10390,8 +10390,8 @@
         <oboInOwl:hasExactSynonym>mDa</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A mass unit which is equal to 1/12 the mass of 12C&quot; [Wikipedia:Wikipedia]</rdfs:comment>
         <oboInOwl:hasExactSynonym>milli unified atomic mass unit</oboInOwl:hasExactSynonym>
-        <rdfs:label>milli</rdfs:label>
         <oboInOwl:hasExactSynonym>millidalton</oboInOwl:hasExactSynonym>
+        <rdfs:label>milli</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0010010">
         <rdfs:label>hectare</rdfs:label>
@@ -10564,8 +10564,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0010051">
         <oboInOwl:hasExactSynonym>kilocalorie</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>food calorie</oboInOwl:hasExactSynonym>
-        <rdfs:label>large calorie</rdfs:label>
         <oboInOwl:hasExactSynonym>cal</oboInOwl:hasExactSynonym>
+        <rdfs:label>large calorie</rdfs:label>
         <oboInOwl:hasExactSynonym>big calorie</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>calorie</oboInOwl:hasExactSynonym>
         <rdfs:comment>&quot;A unit of energy widely used in nutrition, equivalent to the amount of heat needed to cause one kilogram of water to rise in temperature by one degree Celsius.&quot; [Wikipedia:Wikipedia]</rdfs:comment>
